@@ -1,0 +1,14 @@
+.header {
+  height: 4rem;
+  background-color: #242424;
+  width: 100%;
+  display: flex;
+  gap: 1rem;
+  color: #ffffff;
+  align-items: center;
+}
+
+.div {
+  padding: 1rem;
+  cursor: pointer;
+}
